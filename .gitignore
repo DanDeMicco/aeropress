@@ -1,0 +1,4 @@
+public/lib
+assets
+node_modules
+*.log
